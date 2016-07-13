@@ -1,0 +1,3 @@
+rootProject.name = 'reduxifier'
+
+include ':app'
